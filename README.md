@@ -1,1 +1,1 @@
-# APS-Lab
+# Algorithm and Problem Solving
